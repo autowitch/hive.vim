@@ -43,7 +43,7 @@ syn keyword sqlOperator	sysdate out
 syn keyword sqlOperator	round floor ceil rand concat substr upper ucase
 syn keyword sqlOperator	lower lcase trim ltrim rtrim regexp_replace size
 syn keyword sqlOperator	cast from_unixtime to_date year month day get_json_object
-syn keyword sqlOperator	sum avg min max
+syn keyword sqlOperator	sum avg min max transform
 syn keyword sqlOperator	variance var_samp stddev_pop stddev_samp
 syn keyword sqlOperator	covar_pop covar_samp corr percentile percentil_approx
 syn keyword sqlOperator	histogram_numeric collect_set inline explode
