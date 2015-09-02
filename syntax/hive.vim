@@ -65,9 +65,9 @@ syn keyword sqlStatement delete drop execute explain grant insert lock noaudit
 syn keyword sqlStatement rename revoke rollback savepoint select set
 syn keyword sqlStatement truncate update describe load use
 
-syn keyword sqlType	tinyint smallint int bigint float double boolean string
-syn keyword sqlType	array map struct named_struct create_union
-syn keyword sqlType     timestamp date varchar char
+syn keyword sqlType tinyint smallint int bigint float double boolean string
+syn keyword sqlType array map struct named_struct create_union
+syn keyword sqlType timestamp date varchar char
 
 syn match hiveVar     "hive\.[a-zA-Z.]\+"
 syn match hiveVar     "mapred\.[a-zA-Z.]\+"
