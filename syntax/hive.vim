@@ -31,7 +31,7 @@ syn keyword sqlKeyword	session share size smallint type using full outer join ri
 syn keyword sqlKeyword	format delimited fields terminated by collection items external
 syn keyword sqlKeyword	stored sequencefile partitioned data local inpath overwrite clustered buckets sorted
 syn keyword sqlKeyword	keys extended textfile location distribute directory tablesample using reduce lateral
-syn keyword sqlKeyword	coalesce case when
+syn keyword sqlKeyword	coalesce case when sort
 
 
 syn keyword sqlOperator	not and or < <= == >= > <> !=
